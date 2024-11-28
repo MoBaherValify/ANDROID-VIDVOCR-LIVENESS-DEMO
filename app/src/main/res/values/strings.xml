@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">National ID Trial</string>
+    <string name="heading">National ID OCR</string>
+    <string name="scan_button">SCAN</string>
+</resources>
